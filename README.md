@@ -2,7 +2,6 @@
 
 A modern, full-stack e-commerce application built with the MERN stack. Featuring a complete shopping experience with user authentication, product management, shopping cart, and order processing.
 
-![TTN Shop Screenshot]
 
 ## 📑 Table of Contents
 
