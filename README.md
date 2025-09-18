@@ -245,8 +245,9 @@ TTN_Shop_E_commerce/
 │   ├── 📁 models/                 # MongoDB models
 │   ├── 📁 routes/                 # API routes
 │   ├── 📁 utils/                  # Utility functions
-│   ├── server.js                  # Express server entry point
-│   └── package.json               # Backend dependencies
+│   ├── server.js                 # Express server entry point
+    └── seeder.js                  # Seed or clean sample data in database
+│         
 │
 ├── 📁 frontend/
 │   ├── 📁 public/                 # Static assets
@@ -260,7 +261,7 @@ TTN_Shop_E_commerce/
 │   │   └── index.css              # Global styles
 │   └── package.json               # Frontend dependencies
 │
-├── 📁 screenshots/                # Application screenshots
+├── 📁 uploads/                # Item images
 ├── .env.example                   # Environment variables template
 ├── .gitignore                     # Git ignore rules
 ├── package.json                   # Root package.json
