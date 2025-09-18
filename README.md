@@ -246,7 +246,7 @@ TTN_Shop_E_commerce/
 │   ├── 📁 routes/                 # API routes
 │   ├── 📁 utils/                  # Utility functions
 │   ├── server.js                 # Express server entry point
-    └── seeder.js                  # Seed or clean sample data in database
+|   └── seeder.js                  # Seed or clean sample data in database
 │         
 │
 ├── 📁 frontend/
